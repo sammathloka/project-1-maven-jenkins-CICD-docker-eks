@@ -1,1 +1,1 @@
-# project-1-maven-jenkins-CICD-docker-eks
+# project-maven-jenkins-CI-CD-
